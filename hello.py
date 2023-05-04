@@ -7,5 +7,5 @@ def add(x, y):
 
 print(add(1, 1))
 
-var=1
-var=var
+VAR=1
+NEW_VAR=VAR
